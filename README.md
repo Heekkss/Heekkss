@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Heekkss
 - 👀 I’m interested in video games
-- 🌱 I’m currently learning jave
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me 
 
